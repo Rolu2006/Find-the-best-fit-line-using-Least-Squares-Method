@@ -54,7 +54,8 @@ plt.show()
 
 
 
-[exp1-output](https://github.com/user-attachments/assets/1214b1fa-b1d1-4110-a163-e6f2da0b7a57)
+
+![Screenshot 2024-10-11 142339](https://github.com/user-attachments/assets/c83fb068-b0f7-452c-985a-429ace17656d)
 
 
 ## Result:
